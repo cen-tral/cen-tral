@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kieranloveswolf
+- 👋 Hi, I’m @cen-tral
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, javascript
 - 💞️ I’m looking to collaborate on basic projects
